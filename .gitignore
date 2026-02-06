@@ -22,3 +22,5 @@ build/
 # Operating System files
 .DS_Store
 Thumbs.db
+
+SQLite_databases_for_learning_data_science
